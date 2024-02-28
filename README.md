@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+I am current learning to so much about Analytics as a student, and building a strong foundation. 
+
+And I would love to colloborate on some of the projects I am working, especially EPL- Prediction Analytics, with the advancements happening around LLM, there is just so much potential to uncover here, much better than the researches that have been done earlier. 
+
+You can contact me rravichandran@ucdavis.edu
+
+Fun Fact: I like to work on things when it just gets complex :)
