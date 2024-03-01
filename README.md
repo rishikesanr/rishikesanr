@@ -24,4 +24,6 @@ Here are some ideas to get you started:
 -⚡️ If you're up for it, take a look at the [website](https://rishikesanr.github.io/portfolio/) I created using Jekyll theme. Who knows, you might stumble upon some project pics that'll make you grin! 😄<br>
 -⚽ I love watching football (soccer), while staying tuned to the world through Twitter!<br><br>
 
-Feel free to connect with me! Cheers :)
+Feel free to connect with me! Cheers :)<br>
+Email: rravichandran@ucdavis.edu
+
