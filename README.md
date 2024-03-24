@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 -💡 I'm learning a ton about analytics as a student, building a foundation so solid even earthquakes envy it 😉<br>
--💼 I've worked as a data science engineer for almost 2.5 years, creating pipelines for real-time data and making sure they run smoothly from end-to-end.<br>
+-💼 I've worked as a data science engineer for almost 2.5 years, creating pipelines for real-time data and making sure they run smoothly from end-to-end <br>
 -🫖 Let's chat about making sense of anomalies, NLP, or Interstellar's ending <br>
 -⚡️ If you're up for it, take a look at the [portfolio](https://rishikesanr.github.io/portfolio/) I created using Jekyll theme. Who knows, you might stumble upon some project pics that'll make you grin! 😄<br>
 -⚽ I love watching football (soccer), while staying tuned to the world through Twitter!<br><br>
