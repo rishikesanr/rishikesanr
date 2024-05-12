@@ -1,6 +1,6 @@
 ## Rishikesan Ravichandran
 
-[LinkedIn](https://www.linkedin.com/in/rishikesanr/)     [Medium](https://medium.com/@rishikesanr)
+[LinkedIn](https://www.linkedin.com/in/rishikesanr/)     [Medium](https://medium.com/@rishikesanr)    [Tableau](https://public.tableau.com/app/profile/rishikesan.ravichandran8416/vizzes)
 
 ### Hi there 👋<br>
 
